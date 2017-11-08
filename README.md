@@ -11,19 +11,10 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 
 ---
 
-## ADDITIONAL FEATURES
-#### These features are only available as a custom development.
-
-- Block users
-- Login with SMS
-- Forward messages
-- Mute push notifications
-- Home screen quick actions
-- Share media message content
-
 ## [PREMIUM FEATURES](http://relatedcode.com/premium)
 #### You can purchase the Premium version [here](http://relatedcode.com/premium).
 
+- Full source code is available for all features
 - Video call (in-app video calling over data connection)
 - Audio call (in-app audio calling over data connection)
 - Message queue (creating new messages while offline)
@@ -34,7 +25,12 @@ This is a native iOS Messenger app, with audio/video calls and realtime chat con
 - Cache settings for media messages (automatic/manual cleanup)
 - Media message re-download option
 - Dynamic password generation
-- Full source code is available for all features
+- Block users
+- Login with SMS
+- Forward messages
+- Mute push notifications
+- Home screen quick actions
+- Share media message content
 
 ## KEY FEATURES
 
